@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.guessMyNumber.resources
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.Properties.Resources.resources
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\bin\Debug\guessMyNumber.exe.config
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\bin\Debug\guessMyNumber.exe
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\bin\Debug\guessMyNumber.pdb
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.exe
+C:\Users\electrics01\source\repos\guessMyNumber\guessMyNumber\obj\Debug\guessMyNumber.pdb

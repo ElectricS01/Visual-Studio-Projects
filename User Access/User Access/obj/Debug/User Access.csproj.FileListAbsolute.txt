@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\bin\Debug\User Access.exe.config
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\bin\Debug\User Access.exe
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\bin\Debug\User Access.pdb
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User Access.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User Access.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User_Access.userAccess.resources
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User_Access.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User Access.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User Access.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User Access.exe
+C:\Users\electrics01.MAIN8\source\repos\User Access\User Access\obj\Debug\User Access.pdb

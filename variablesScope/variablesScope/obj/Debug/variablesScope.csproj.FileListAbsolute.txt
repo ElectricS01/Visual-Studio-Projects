@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\bin\Debug\variablesScope.exe.config
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\bin\Debug\variablesScope.exe
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\bin\Debug\variablesScope.pdb
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.Properties.Resources.resources
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.exe
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.pdb
+C:\Users\electrics01\source\repos\variablesScope\variablesScope\obj\Debug\variablesScope.variablesScope.resources

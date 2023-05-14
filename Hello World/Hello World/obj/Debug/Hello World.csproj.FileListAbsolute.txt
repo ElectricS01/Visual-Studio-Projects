@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\electrics01\source\repos\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\electrics01\source\repos\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\electrics01\source\repos\Hello World\Hello World\obj\Debug\Hello World.pdb

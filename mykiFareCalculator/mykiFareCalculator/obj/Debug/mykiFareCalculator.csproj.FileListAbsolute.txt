@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\bin\Debug\mykiFareCalculator.exe.config
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\bin\Debug\mykiFareCalculator.exe
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\bin\Debug\mykiFareCalculator.pdb
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.mykiFareCalculator.resources
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.Properties.Resources.resources
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.exe
+C:\Users\electrics01\source\repos\mykiFareCalculator\mykiFareCalculator\obj\Debug\mykiFareCalculator.pdb

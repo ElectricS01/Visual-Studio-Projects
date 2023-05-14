@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\bin\Debug\happyHolidays.exe.config
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\bin\Debug\happyHolidays.exe
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\bin\Debug\happyHolidays.pdb
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.happyHolidays.resources
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.Properties.Resources.resources
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.exe
+C:\Users\electrics01\source\repos\happyHolidays\happyHolidays\obj\Debug\happyHolidays.pdb

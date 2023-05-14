@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\bin\Debug\Student Database.exe.config
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\bin\Debug\Student Database.exe
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\bin\Debug\Student Database.pdb
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Song Database.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Song Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Student_Database.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Song Database.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Song Database.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Student Database.exe
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Student Database.pdb
+C:\Users\electrics01.MAIN8\source\repos\Somg Database\Student Database\obj\Debug\Song_Database.songDatabse.resources

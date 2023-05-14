@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\conversations\conversations\bin\Debug\conversations.exe.config
+C:\Users\electrics01\source\repos\conversations\conversations\bin\Debug\conversations.exe
+C:\Users\electrics01\source\repos\conversations\conversations\bin\Debug\conversations.pdb
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.Properties.Resources.resources
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.exe
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.pdb
+C:\Users\electrics01\source\repos\conversations\conversations\obj\Debug\conversations.conversations.resources

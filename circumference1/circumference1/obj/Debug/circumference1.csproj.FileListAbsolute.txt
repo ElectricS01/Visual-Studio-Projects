@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\circumference1\circumference1\bin\Debug\circumference1.exe.config
+C:\Users\electrics01\source\repos\circumference1\circumference1\bin\Debug\circumference1.exe
+C:\Users\electrics01\source\repos\circumference1\circumference1\bin\Debug\circumference1.pdb
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.Form1.resources
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.Properties.Resources.resources
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.exe
+C:\Users\electrics01\source\repos\circumference1\circumference1\obj\Debug\circumference1.pdb

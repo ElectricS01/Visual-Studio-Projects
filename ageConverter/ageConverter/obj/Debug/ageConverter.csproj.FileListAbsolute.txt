@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\bin\Debug\ageConverter.exe.config
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\bin\Debug\ageConverter.exe
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\bin\Debug\ageConverter.pdb
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.Form1.resources
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.Properties.Resources.resources
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.exe
+C:\Users\electrics01\source\repos\ageConverter\ageConverter\obj\Debug\ageConverter.pdb

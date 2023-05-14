@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\electrics01.MAIN8\source\repos\Quiz\Quiz\obj\Debug\Quiz.quiz.resources

@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\loops\loops\bin\Debug\loops.exe.config
+C:\Users\electrics01\source\repos\loops\loops\bin\Debug\loops.exe
+C:\Users\electrics01\source\repos\loops\loops\bin\Debug\loops.pdb
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.loops.resources
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.Properties.Resources.resources
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.exe
+C:\Users\electrics01\source\repos\loops\loops\obj\Debug\loops.pdb

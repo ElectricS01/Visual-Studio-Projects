@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\bin\Debug\loginWindow.exe.config
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\bin\Debug\loginWindow.exe
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\bin\Debug\loginWindow.pdb
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.loginWindow.resources
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.Properties.Resources.resources
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.exe
+C:\Users\electrics01\source\repos\loginWindow\loginWindow\obj\Debug\loginWindow.pdb

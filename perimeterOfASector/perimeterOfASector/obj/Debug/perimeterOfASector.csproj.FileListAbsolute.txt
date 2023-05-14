@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\bin\Debug\perimeterOfASector.exe.config
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\bin\Debug\perimeterOfASector.exe
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\bin\Debug\perimeterOfASector.pdb
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.perimeterOfASector.resources
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.Properties.Resources.resources
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.exe
+C:\Users\electrics01\source\repos\perimeterOfASector\perimeterOfASector\obj\Debug\perimeterOfASector.pdb

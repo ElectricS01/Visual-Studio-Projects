@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\bin\Debug\Car Array.exe.config
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\bin\Debug\Car Array.exe
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\bin\Debug\Car Array.pdb
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car Array.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car_Array.carArray.resources
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car_Array.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car Array.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car Array.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car Array.exe
+C:\Users\electrics01.MAIN8\source\repos\Car Array\Car Array\obj\Debug\Car Array.pdb

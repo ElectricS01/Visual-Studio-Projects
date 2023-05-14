@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\bin\Debug\2 Number Calculator (Task 1).exe.config
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\bin\Debug\2 Number Calculator (Task 1).exe
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\bin\Debug\2 Number Calculator (Task 1).pdb
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\2 Number Calculator (Task 1).csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\2 Number Calculator (Task 1).csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\_2_Number_Calculator__Task_1_.Form1.resources
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\_2_Number_Calculator__Task_1_.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\2 Number Calculator (Task 1).csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\2 Number Calculator (Task 1).csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\2 Number Calculator (Task 1).exe
+C:\Users\electrics01.MAIN8\source\repos\2 Number Calculator (Task 1)\2 Number Calculator (Task 1)\obj\Debug\2 Number Calculator (Task 1).pdb

@@ -1,0 +1,11 @@
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\bin\Debug\Student Athletics.exe.config
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\bin\Debug\Student Athletics.exe
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\bin\Debug\Student Athletics.pdb
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student Athletics.csproj.AssemblyReference.cache
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student Athletics.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student_Athletics.Form1.resources
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student_Athletics.Properties.Resources.resources
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student Athletics.csproj.GenerateResource.cache
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student Athletics.csproj.CoreCompileInputs.cache
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student Athletics.exe
+C:\Users\electrics01\source\repos\Student Athletics\Student Athletics\obj\Debug\Student Athletics.pdb
