@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Diagnostics;
 
 namespace Song_Database
 {
@@ -26,12 +27,38 @@ namespace Song_Database
             string artist = txt_artist.Text;
             string genre = txt_genre.Text;
             string duration = txt_duration.Text;
-            string record = song + "," + artist + "," + genre +"," + duration;
+            string record = song + "," + artist + "," + genre + "," + duration;
 
-            using (TextWriter tw = new StreamWriter(path, true)) 
+            if (File.Exists(path))
             {
-                tw.WriteLine(record);
+                string[] lines = File.ReadAllLines(path);
+
+                bool songExists = false;
+                foreach (string line in lines)
+                {
+                    if (line.Contains(song))
+                    {
+                        songExists = true;
+                        break;
+                    }
+                }
+
+                if (!songExists)
+                {
+                    using (TextWriter tw = new StreamWriter(path, true))
+                    {
+                        tw.WriteLine(record);
+                    }
+                }
             }
+            else
+            {
+                using (TextWriter tw = new StreamWriter(path, true))
+                {
+                    tw.WriteLine(record);
+                }
+            }
+
         }
 
         private void btn_read_Click(object sender, EventArgs e)
