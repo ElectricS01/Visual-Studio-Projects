@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\bin\Debug\Calculator (Task2).exe.config
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\bin\Debug\Calculator (Task2).exe
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\bin\Debug\Calculator (Task2).pdb
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator (Task2).csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator (Task2).csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator__Task2_.calculator.resources
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator__Task2_.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator (Task2).csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator (Task2).csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator (Task2).exe
+C:\Users\electrics01.MAIN8\source\repos\Calculator (Task2)\Calculator (Task2)\obj\Debug\Calculator (Task2).pdb
