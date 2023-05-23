@@ -17,8 +17,8 @@ namespace Quiz
             InitializeComponent();
         }
 
-        public string[] questions = { "Are you Better?", "Are you even Better?", "Are you even getter Better?", "Are you the Betterest?", "Are you Guddar?"};
-        public string[] answers = { "no", "E" , "no u" , "yes" , "maybe"};
+        public string[] questions = { "Are you Better?", "Have you heard of BetterCompass?", "Is Haydn Better?", "Is Dutt Better?", "Is Visual Studio good?"};
+        public string[] answers = { "no", "Yes" , "no" , "no" , "no"};
         public int score = 0;
         public int question = 1;
 
@@ -54,7 +54,7 @@ namespace Quiz
                 else
                 {
                     float perc = (float)score / (float)questions.Length * 100;
-                    txtRes.Text = "you got " + score + "/5 (" + perc + "%)";
+                    txtRes.Text = "You got " + score + "/5 (" + perc + "%)";
                     btnCheck.Visible = false;
                     txtAnswer.Visible = false;  
                     txtQuestion.Visible = false;
