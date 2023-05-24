@@ -7,9 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Quiz
-{ 
+{
     public partial class quiz : Form
     {
         public quiz()
@@ -17,8 +18,12 @@ namespace Quiz
             InitializeComponent();
         }
 
-        public string[] questions = { "Are you Better?", "Have you heard of BetterCompass?", "Is Haydn Better?", "Is Dutt Better?", "Is Visual Studio good?"};
-        public string[] answers = { "no", "Yes" , "no" , "no" , "no"};
+        public string path = @"C:\Users\electrics01.MAIN8\q.txt";
+        public string path2 = @"C:\Users\electrics01.MAIN8\a.txt";
+
+        public string[] questions = File.ReadAllLines(@"C:\Users\electrics01.MAIN8\q.txt");
+        public string[] answers = File.ReadAllLines(@"C:\Users\electrics01.MAIN8\a.txt");
+
         public int score = 0;
         public int question = 1;
 

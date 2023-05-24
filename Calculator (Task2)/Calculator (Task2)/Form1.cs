@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Calculator__Task2_
-
 {
     public partial class calculator : Form
     {
+        // Stores the current equation
         public string equation = "";
 
         public calculator()
@@ -20,73 +20,84 @@ namespace Calculator__Task2_
             InitializeComponent();
         }
 
+        // Event handler for the "0" button click
         private void btn_0_Click(object sender, EventArgs e)
         {
             equation = equation + "0";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "1" button click
         private void btn_1_Click(object sender, EventArgs e)
         {
             equation = equation + "1";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "2" button click
         private void btn_2_Click(object sender, EventArgs e)
         {
             equation = equation + "2";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "3" button click
         private void btn_3_Click(object sender, EventArgs e)
         {
             equation = equation + "3";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "4" button click
         private void btn_4_Click(object sender, EventArgs e)
         {
             equation = equation + "4";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "5" button click
         private void btn_5_Click(object sender, EventArgs e)
         {
             equation = equation + "5";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "6" button click
         private void btn_6_Click(object sender, EventArgs e)
         {
             equation = equation + "6";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "7" button click
         private void btn_7_Click(object sender, EventArgs e)
         {
             equation = equation + "7";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "8" button click
         private void btn_8_Click(object sender, EventArgs e)
         {
             equation = equation + "8";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "9" button click
         private void btn_9_Click(object sender, EventArgs e)
         {
             equation = equation + "9";
             txt_box.Text = equation;
         }
 
+        // Event handler for the "." button click
         private void btn_dot_Click(object sender, EventArgs e)
         {
             if (equation != "")
             {
                 equation = equation + ".";
                 txt_box.Text = equation;
-            } 
+            }
             else
             {
                 equation = equation + "0.";
@@ -94,6 +105,7 @@ namespace Calculator__Task2_
             }
         }
 
+        // Event handler for the "/" button click
         private void btn_slash_Click(object sender, EventArgs e)
         {
             if (equation != "")
@@ -103,6 +115,7 @@ namespace Calculator__Task2_
             }
         }
 
+        // Event handler for the "*" button click
         private void btn_star_Click(object sender, EventArgs e)
         {
             if (equation != "")
@@ -112,6 +125,7 @@ namespace Calculator__Task2_
             }
         }
 
+        // Event handler for the "-" button click
         private void btn_minus_Click(object sender, EventArgs e)
         {
             if (equation != "")
@@ -121,6 +135,7 @@ namespace Calculator__Task2_
             }
         }
 
+        // Event handler for the "+" button click
         private void btn_plus_Click(object sender, EventArgs e)
         {
             if (equation != "")
@@ -130,37 +145,70 @@ namespace Calculator__Task2_
             }
         }
 
+        // Event handler for the "^" button click
+        private void btn_power_Click(object sender, EventArgs e)
+        {
+            if (equation != "")
+            {
+                equation = equation + "^";
+                txt_box.Text = equation;
+            }
+        }
+
+        // Event handler for the ")" button click
+        private void btn_right_Click(object sender, EventArgs e)
+        {
+            equation = equation + ")";
+            txt_box.Text = equation;
+
+        }
+
+        // Event handler for the "(" button click
+        private void tbn_left_Click(object sender, EventArgs e)
+        {
+            equation = equation + "(";
+            txt_box.Text = equation;
+            
+        }
+
+        // Event handler for the "CE" button click
         private void btn_ce_Click(object sender, EventArgs e)
         {
             if (equation != "")
             {
-                equation = equation.Remove(equation.Length - 1, 1); ;
-                 txt_box.Text = equation;
+                // Remove the last character from the equation
+                equation = equation.Remove(equation.Length - 1, 1);
+                txt_box.Text = equation;
             }
-            
         }
 
+        // Event handler for the "C" button click
         private void btn_c_Click(object sender, EventArgs e)
         {
             if (equation != "")
             {
+                // Clear the equation
                 equation = "";
                 txt_box.Text = equation;
             }
         }
 
+        // Event handler for the "=" button click
         private void btn_equal_Click(object sender, EventArgs e)
         {
             if (equation != "")
             {
+                // Calculate the result and display it
                 double result = Calculator.CalculateResult(equation);
                 equation = result.ToString();
                 txt_box.Text = result.ToString();
             }
-            }
+        }
     }
+
     public class Calculator
     {
+        // Calculates the result of the given operator and operands
         private static double Calculate(char @operator, double operand1, double operand2)
         {
             switch (@operator)
@@ -180,6 +228,7 @@ namespace Calculator__Task2_
             }
         }
 
+        // Evaluates the expression represented by the tokens
         private static double EvaluateExpression(string[] tokens)
         {
             var precedence = new Dictionary<char, int>
@@ -262,7 +311,7 @@ namespace Calculator__Task2_
             return values.Pop();
         }
 
-
+        // Tokenizes the expression into individual tokens
         private static string[] TokenizeExpression(string equation)
         {
             var operators = new char[] { '+', '-', '*', '/', '^', '(', ')' };
@@ -294,6 +343,7 @@ namespace Calculator__Task2_
             return tokens.ToArray();
         }
 
+        // Calculates the result of the given equation
         public static double CalculateResult(string equation)
         {
             try
@@ -306,6 +356,5 @@ namespace Calculator__Task2_
                 throw new ArgumentException("Invalid expression: " + ex.Message);
             }
         }
-
     }
 }
