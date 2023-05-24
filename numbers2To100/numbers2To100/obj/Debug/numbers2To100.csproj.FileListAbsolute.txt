@@ -9,3 +9,14 @@ C:\Users\electrics01\source\repos\numbers2To100\numbers2To100\bin\Debug\numbers2
 C:\Users\electrics01\source\repos\numbers2To100\numbers2To100\bin\Debug\numbers2To100.pdb
 C:\Users\electrics01\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.exe
 C:\Users\electrics01\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.pdb
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\bin\Debug\numbers2To100.exe.config
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\bin\Debug\numbers2To100.exe
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\bin\Debug\numbers2To100.pdb
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.numbers2To100.resources
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.exe
+C:\Users\electrics01.MAIN8\source\repos\numbers2To100\numbers2To100\obj\Debug\numbers2To100.pdb
