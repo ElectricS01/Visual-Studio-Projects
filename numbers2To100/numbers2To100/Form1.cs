@@ -11,11 +11,11 @@ using System.Windows.Forms;
 
 namespace numbers2To100
 {
-    /* Programmer name: Thomas
+    /* Programmer name: ElectricS01
      * 
-     * Task Description: Description: This Windows Forms app generates and displays
-     *                                even numbers from 2 up to the user-entered value 
-     *                                in a ListBox.
+     * Task Description: This Windows Forms app generates and displays
+     *                   even numbers from 2 up to the user-entered value 
+     *                   in a ListBox.
      * 
      * Completion date: Wed 24 May 2023
     */

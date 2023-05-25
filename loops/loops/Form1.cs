@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace loops
 {
-    /* Programmer name: Thomas
+    /* Programmer name: ElectricS01
      * 
      * Task description: Implement a Windows Forms app that populates 
      *                   a ListBox with numbers from 1 to the user-entered 
