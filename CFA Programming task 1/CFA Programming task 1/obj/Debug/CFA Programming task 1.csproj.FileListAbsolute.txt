@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\bin\Debug\CFA Programming task 1.exe.config
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\bin\Debug\CFA Programming task 1.exe
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\bin\Debug\CFA Programming task 1.pdb
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA Programming task 1.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA Programming task 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA_Programming_task_1.heightConverter.resources
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA_Programming_task_1.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA Programming task 1.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA Programming task 1.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA Programming task 1.exe
+C:\Users\electrics01.MAIN8\source\repos\CFA Programming task 1\CFA Programming task 1\obj\Debug\CFA Programming task 1.pdb

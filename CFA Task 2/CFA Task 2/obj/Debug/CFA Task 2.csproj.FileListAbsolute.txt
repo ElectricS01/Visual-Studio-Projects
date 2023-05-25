@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\bin\Debug\CFA Task 2.exe.config
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\bin\Debug\CFA Task 2.exe
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\bin\Debug\CFA Task 2.pdb
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA Task 2.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA Task 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA_Task_2.taxAndIncomeCalc.resources
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA_Task_2.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA Task 2.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA Task 2.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA Task 2.exe
+C:\Users\electrics01.MAIN8\source\repos\CFA Task 2\CFA Task 2\obj\Debug\CFA Task 2.pdb
