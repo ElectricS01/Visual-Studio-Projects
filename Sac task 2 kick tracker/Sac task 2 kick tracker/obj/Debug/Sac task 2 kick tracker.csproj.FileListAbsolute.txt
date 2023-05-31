@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\bin\Debug\Sac task 2 kick tracker.exe.config
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\bin\Debug\Sac task 2 kick tracker.exe
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\bin\Debug\Sac task 2 kick tracker.pdb
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac task 2 kick tracker.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac task 2 kick tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac_task_2_kick_tracker.kickTracker.resources
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac_task_2_kick_tracker.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac task 2 kick tracker.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac task 2 kick tracker.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac task 2 kick tracker.exe
+C:\Users\electrics01.MAIN8\source\repos\Sac task 2 kick tracker\Sac task 2 kick tracker\obj\Debug\Sac task 2 kick tracker.pdb

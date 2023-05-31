@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\bin\Debug\Sac task 1 player fees.exe.config
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\bin\Debug\Sac task 1 player fees.exe
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\bin\Debug\Sac task 1 player fees.pdb
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac task 1 player fees.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac task 1 player fees.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac_task_1_player_fees.feeCalc.resources
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac_task_1_player_fees.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac task 1 player fees.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac task 1 player fees.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac task 1 player fees.exe
+C:\Users\electrics01.MAIN8\source\repos\Sac task 1 player fees\Sac task 1 player fees\obj\Debug\Sac task 1 player fees.pdb
