@@ -1,0 +1,11 @@
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\bin\Debug\Sac task 3 player information.exe.config
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\bin\Debug\Sac task 3 player information.exe
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\bin\Debug\Sac task 3 player information.pdb
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac task 3 player information.csproj.AssemblyReference.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac task 3 player information.csproj.SuggestedBindingRedirects.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac_task_3_player_information.Form1.resources
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac_task_3_player_information.Properties.Resources.resources
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac task 3 player information.csproj.GenerateResource.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac task 3 player information.csproj.CoreCompileInputs.cache
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac task 3 player information.exe
+C:\Users\electrics01.MAIN8\source\repos\Sac task 3 player information\Sac task 3 player information\obj\Debug\Sac task 3 player information.pdb
