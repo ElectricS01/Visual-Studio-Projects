@@ -24,10 +24,13 @@ namespace Sac_task_3_player_information
         {
             if (txt_age.Text != "" && txt_first.Text != "" && txt_number.Text != "" && txt_pos.Text != "" && txt_sur.Text != "")
             {
-                string player = txt_first.Text + ", " + txt_sur.Text + ", " + txt_age.Text + ", " + txt_pos.Text + ", " + txt_number.Text;
-                using (TextWriter tw = new StreamWriter(path, true))
+                if (int.TryParse(txt_age.Text, out _) && int.TryParse(txt_number.Text, out _))
                 {
-                    tw.WriteLine(player);
+                    string player = txt_first.Text + ", " + txt_sur.Text + ", " + txt_age.Text + ", " + txt_pos.Text + ", " + txt_number.Text;
+                    using (TextWriter tw = new StreamWriter(path, true))
+                    {
+                        tw.WriteLine(player);
+                    }
                 }
             }
         }
