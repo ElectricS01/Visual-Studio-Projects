@@ -63,7 +63,7 @@ namespace Sac_task_3_player_information
             string searchText = "forward";
             foreach (string line in lines)
             {
-                if (string.IndexOf(searchText, StringComparison.OrdinalIgnoreCase) >= 0)
+                if (line.Split(',')[3].ToLower().Trim() == searchText)
                 {
                     lst_box.Items.Add(line);
                 }
@@ -72,12 +72,30 @@ namespace Sac_task_3_player_information
 
         private void btn_defender_Click(object sender, EventArgs e)
         {
-
+            lst_box.Items.Clear();
+            string[] lines = File.ReadAllLines(path);
+            string searchText = "defender";
+            foreach (string line in lines)
+            {
+                if(line.Split(',')[3].ToLower().Trim() == searchText)
+                {
+                    lst_box.Items.Add(line);
+                }
+            }
         }
 
         private void btn_mid_Click(object sender, EventArgs e)
         {
-
+            lst_box.Items.Clear();
+            string[] lines = File.ReadAllLines(path);
+            string searchText = "midfielder";
+            foreach (string line in lines)
+            {
+                if (line.Split(',')[3].ToLower().Trim() == searchText)
+                {
+                    lst_box.Items.Add(line);
+                }
+            }
         }
     }
 }
