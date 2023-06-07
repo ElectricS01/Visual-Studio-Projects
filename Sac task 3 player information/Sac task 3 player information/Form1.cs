@@ -24,24 +24,28 @@ namespace Sac_task_3_player_information
         {
             if (txt_age.Text != "" && txt_first.Text != "" && txt_number.Text != "" && txt_pos.Text != "" && txt_sur.Text != "")
             {
-                if (int.TryParse(txt_age.Text, out _) && int.TryParse(txt_number.Text, out _))
+                if (!File.Exists(path))
                 {
-                    string player = txt_first.Text + ", " + txt_sur.Text + ", " + txt_age.Text + ", " + txt_pos.Text + ", " + txt_number.Text;
-                    using (TextWriter tw = new StreamWriter(path, true))
-                    {
-                        tw.WriteLine(player);
-                    }
+                    File.Create(path).Close();
                 }
+                File.Create(path).Close();
+                string player = txt_first.Text + ", " + txt_sur.Text + ", " + txt_age.Text + ", " + txt_pos.Text + ", " + txt_number.Text;
+                using (TextWriter tw = new StreamWriter(path, true))
+                {
+                    tw.WriteLine(player);
+                }     
             }
         }
 
         private void btn_display_Click(object sender, EventArgs e)
         {
-            lst_box.Items.Clear();
-            string[] lines = File.ReadAllLines(path);
-            foreach (string line in lines)
-            {
-                lst_box.Items.Add(line);
+            if (File.Exists(path)) {
+                lst_box.Items.Clear();
+                string[] lines = File.ReadAllLines(path);
+                foreach (string line in lines)
+                {
+                    lst_box.Items.Add(line);
+                }
             }
         }
 
@@ -61,42 +65,51 @@ namespace Sac_task_3_player_information
 
         private void btn_forward_Click(object sender, EventArgs e)
         {
-            lst_box.Items.Clear();
-            string[] lines = File.ReadAllLines(path);
-            string searchText = "forward";
-            foreach (string line in lines)
+            if (File.Exists(path))
             {
-                if (line.Split(',')[3].ToLower().Trim() == searchText)
+                lst_box.Items.Clear();
+                string[] lines = File.ReadAllLines(path);
+                string searchText = "forward";
+                foreach (string line in lines)
                 {
-                    lst_box.Items.Add(line);
+                    if (line.Split(',')[3].ToLower().Trim() == searchText)
+                    {
+                        lst_box.Items.Add(line);
+                    }
                 }
             }
         }
 
         private void btn_defender_Click(object sender, EventArgs e)
         {
-            lst_box.Items.Clear();
+            if (File.Exists(path))
+            {
+                lst_box.Items.Clear();
             string[] lines = File.ReadAllLines(path);
             string searchText = "defender";
-            foreach (string line in lines)
-            {
-                if(line.Split(',')[3].ToLower().Trim() == searchText)
+                foreach (string line in lines)
                 {
-                    lst_box.Items.Add(line);
+                    if (line.Split(',')[3].ToLower().Trim() == searchText)
+                    {
+                        lst_box.Items.Add(line);
+                    }
                 }
             }
         }
 
         private void btn_mid_Click(object sender, EventArgs e)
         {
-            lst_box.Items.Clear();
-            string[] lines = File.ReadAllLines(path);
-            string searchText = "midfielder";
-            foreach (string line in lines)
+            if (File.Exists(path))
             {
-                if (line.Split(',')[3].ToLower().Trim() == searchText)
+                lst_box.Items.Clear();
+                string[] lines = File.ReadAllLines(path);
+                string searchText = "midfielder";
+                foreach (string line in lines)
                 {
-                    lst_box.Items.Add(line);
+                    if (line.Split(',')[3].ToLower().Trim() == searchText)
+                    {
+                        lst_box.Items.Add(line);
+                    }
                 }
             }
         }
