@@ -56,7 +56,7 @@
             this.label1.Location = new System.Drawing.Point(137, 14);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(372, 51);
+            this.label1.Size = new System.Drawing.Size(189, 26);
             this.label1.TabIndex = 0;
             this.label1.Text = "Player Information";
             // 
@@ -67,7 +67,7 @@
             this.label2.Location = new System.Drawing.Point(38, 54);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(169, 37);
+            this.label2.Size = new System.Drawing.Size(84, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "Firstname:";
             // 
@@ -77,9 +77,9 @@
             this.txt_first.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.txt_first.ForeColor = System.Drawing.SystemColors.Control;
             this.txt_first.Location = new System.Drawing.Point(126, 50);
-            this.txt_first.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_first.Margin = new System.Windows.Forms.Padding(2);
             this.txt_first.Name = "txt_first";
-            this.txt_first.Size = new System.Drawing.Size(89, 44);
+            this.txt_first.Size = new System.Drawing.Size(89, 26);
             this.txt_first.TabIndex = 2;
             // 
             // label3
@@ -89,7 +89,7 @@
             this.label3.Location = new System.Drawing.Point(38, 80);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(140, 37);
+            this.label3.Size = new System.Drawing.Size(69, 20);
             this.label3.TabIndex = 3;
             this.label3.Text = "Position:";
             // 
@@ -99,9 +99,9 @@
             this.txt_age.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.txt_age.ForeColor = System.Drawing.SystemColors.Control;
             this.txt_age.Location = new System.Drawing.Point(126, 103);
-            this.txt_age.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_age.Margin = new System.Windows.Forms.Padding(2);
             this.txt_age.Name = "txt_age";
-            this.txt_age.Size = new System.Drawing.Size(89, 44);
+            this.txt_age.Size = new System.Drawing.Size(89, 26);
             this.txt_age.TabIndex = 6;
             // 
             // label4
@@ -111,7 +111,7 @@
             this.label4.Location = new System.Drawing.Point(38, 107);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(83, 37);
+            this.label4.Size = new System.Drawing.Size(42, 20);
             this.label4.TabIndex = 5;
             this.label4.Text = "Age:";
             // 
@@ -121,9 +121,9 @@
             this.txt_number.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.txt_number.ForeColor = System.Drawing.SystemColors.Control;
             this.txt_number.Location = new System.Drawing.Point(354, 73);
-            this.txt_number.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_number.Margin = new System.Windows.Forms.Padding(2);
             this.txt_number.Name = "txt_number";
-            this.txt_number.Size = new System.Drawing.Size(45, 44);
+            this.txt_number.Size = new System.Drawing.Size(45, 26);
             this.txt_number.TabIndex = 10;
             // 
             // label6
@@ -133,7 +133,7 @@
             this.label6.Location = new System.Drawing.Point(222, 76);
             this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(257, 37);
+            this.label6.Size = new System.Drawing.Size(126, 20);
             this.label6.TabIndex = 9;
             this.label6.Text = "Jumper Number:";
             // 
@@ -143,9 +143,9 @@
             this.txt_sur.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.txt_sur.ForeColor = System.Drawing.SystemColors.Control;
             this.txt_sur.Location = new System.Drawing.Point(304, 47);
-            this.txt_sur.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_sur.Margin = new System.Windows.Forms.Padding(2);
             this.txt_sur.Name = "txt_sur";
-            this.txt_sur.Size = new System.Drawing.Size(96, 44);
+            this.txt_sur.Size = new System.Drawing.Size(96, 26);
             this.txt_sur.TabIndex = 8;
             // 
             // label7
@@ -155,7 +155,7 @@
             this.label7.Location = new System.Drawing.Point(222, 50);
             this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(156, 37);
+            this.label7.Size = new System.Drawing.Size(78, 20);
             this.label7.TabIndex = 7;
             this.label7.Text = "Surname:";
             // 
@@ -165,11 +165,11 @@
             this.lst_box.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.lst_box.ForeColor = System.Drawing.SystemColors.Control;
             this.lst_box.FormattingEnabled = true;
-            this.lst_box.ItemHeight = 37;
+            this.lst_box.ItemHeight = 20;
             this.lst_box.Location = new System.Drawing.Point(142, 145);
-            this.lst_box.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.lst_box.Margin = new System.Windows.Forms.Padding(2);
             this.lst_box.Name = "lst_box";
-            this.lst_box.Size = new System.Drawing.Size(178, 78);
+            this.lst_box.Size = new System.Drawing.Size(178, 64);
             this.lst_box.TabIndex = 11;
             // 
             // btn_add
@@ -177,7 +177,7 @@
             this.btn_add.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_add.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_add.Location = new System.Drawing.Point(4, 244);
-            this.btn_add.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_add.Margin = new System.Windows.Forms.Padding(2);
             this.btn_add.Name = "btn_add";
             this.btn_add.Size = new System.Drawing.Size(104, 44);
             this.btn_add.TabIndex = 12;
@@ -190,7 +190,7 @@
             this.btn_display.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_display.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_display.Location = new System.Drawing.Point(116, 244);
-            this.btn_display.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_display.Margin = new System.Windows.Forms.Padding(2);
             this.btn_display.Name = "btn_display";
             this.btn_display.Size = new System.Drawing.Size(104, 44);
             this.btn_display.TabIndex = 13;
@@ -203,7 +203,7 @@
             this.btn_clear.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_clear.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_clear.Location = new System.Drawing.Point(227, 244);
-            this.btn_clear.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_clear.Margin = new System.Windows.Forms.Padding(2);
             this.btn_clear.Name = "btn_clear";
             this.btn_clear.Size = new System.Drawing.Size(104, 44);
             this.btn_clear.TabIndex = 14;
@@ -216,7 +216,7 @@
             this.btn_close.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_close.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_close.Location = new System.Drawing.Point(338, 244);
-            this.btn_close.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_close.Margin = new System.Windows.Forms.Padding(2);
             this.btn_close.Name = "btn_close";
             this.btn_close.Size = new System.Drawing.Size(104, 44);
             this.btn_close.TabIndex = 15;
@@ -229,7 +229,7 @@
             this.btn_forward.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_forward.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_forward.Location = new System.Drawing.Point(60, 292);
-            this.btn_forward.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_forward.Margin = new System.Windows.Forms.Padding(2);
             this.btn_forward.Name = "btn_forward";
             this.btn_forward.Size = new System.Drawing.Size(104, 44);
             this.btn_forward.TabIndex = 16;
@@ -242,7 +242,7 @@
             this.btn_defender.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_defender.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_defender.Location = new System.Drawing.Point(172, 292);
-            this.btn_defender.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_defender.Margin = new System.Windows.Forms.Padding(2);
             this.btn_defender.Name = "btn_defender";
             this.btn_defender.Size = new System.Drawing.Size(104, 44);
             this.btn_defender.TabIndex = 17;
@@ -255,7 +255,7 @@
             this.btn_mid.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.btn_mid.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btn_mid.Location = new System.Drawing.Point(284, 292);
-            this.btn_mid.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_mid.Margin = new System.Windows.Forms.Padding(2);
             this.btn_mid.Name = "btn_mid";
             this.btn_mid.Size = new System.Drawing.Size(104, 44);
             this.btn_mid.TabIndex = 18;
@@ -274,9 +274,9 @@
             "Defender",
             "Midfielder"});
             this.txt_pos.Location = new System.Drawing.Point(126, 76);
-            this.txt_pos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_pos.Margin = new System.Windows.Forms.Padding(2);
             this.txt_pos.Name = "txt_pos";
-            this.txt_pos.Size = new System.Drawing.Size(89, 45);
+            this.txt_pos.Size = new System.Drawing.Size(89, 28);
             this.txt_pos.TabIndex = 19;
             // 
             // Form1
@@ -305,7 +305,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.Control;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
