@@ -34,7 +34,8 @@ namespace Year_12_Mentor_Swap
             float o;
             if (!float.TryParse(sessions.Text, out o))
             {
-                line1.Visible = false;
+                line1.Visible = true;
+                line1.Text = "Sessions must be a number";
                 line2.Visible = false;
             }
             else
