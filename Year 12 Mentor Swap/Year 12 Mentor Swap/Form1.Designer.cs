@@ -233,7 +233,7 @@
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
             Name = "Form1";
-            Text = "Form1";
+            Text = "Year 12 Mentor Swap";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
