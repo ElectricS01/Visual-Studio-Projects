@@ -12,14 +12,34 @@ namespace Jim_s_Seed_Collection
 
         private void submit_Click(object sender, EventArgs e)
         {
-            if (idBox.Text == "" || typeBox.Text == "" || locationBox.Text == "" || countBox.Text == "" || priceBox.Text == "")
+            if (typeBox.Text == "" || locationBox.Text == "" || countBox.Text == "" || priceBox.Text == "")
             {
                 return;
             }
+
+            int id = 0;
+
+            string filePath = "data.txt";
+
+            if (File.Exists(filePath))
+            {
+                string[] lines = File.ReadAllLines(filePath);
+
+                foreach (string line in lines)
+                {
+                    if (int.TryParse(line.Split(',')[0], out int newId))
+                    {
+                        if (newId == id + 1)
+                        {
+                            id = newId;
+                        }
+                    }
+                }
+            }
+
             using TextWriter tw = new StreamWriter("data.txt", true);
-            tw.WriteLine($"{idBox.Text}, {typeBox.Text}, {locationBox.Text}, {countBox.Text}, {priceBox.Text}");
+            tw.WriteLine($"{id + 1}, {typeBox.Text}, {locationBox.Text}, {countBox.Text}, {priceBox.Text}");
             tw.Close();
-            idBox.Text =
             typeBox.Text =
             locationBox.Text =
             countBox.Text =
