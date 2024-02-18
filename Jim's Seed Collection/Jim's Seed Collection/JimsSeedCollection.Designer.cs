@@ -30,8 +30,6 @@
         {
             label1 = new Label();
             pictureBox1 = new PictureBox();
-            label2 = new Label();
-            idBox = new TextBox();
             typeBox = new TextBox();
             label3 = new Label();
             countBox = new TextBox();
@@ -64,39 +62,19 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.Jim_s_Seeds;
-            pictureBox1.Location = new Point(988, 36);
+            pictureBox1.Location = new Point(1004, 36);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(166, 163);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F);
-            label2.Location = new Point(33, 119);
-            label2.Name = "label2";
-            label2.Size = new Size(55, 45);
-            label2.TabIndex = 2;
-            label2.Text = "Id:";
-            // 
-            // idBox
-            // 
-            idBox.BackColor = SystemColors.ControlDarkDark;
-            idBox.Font = new Font("Segoe UI", 12F);
-            idBox.ForeColor = SystemColors.ControlLightLight;
-            idBox.Location = new Point(262, 116);
-            idBox.Name = "idBox";
-            idBox.Size = new Size(200, 50);
-            idBox.TabIndex = 3;
-            // 
             // typeBox
             // 
             typeBox.BackColor = SystemColors.ControlDarkDark;
             typeBox.Font = new Font("Segoe UI", 12F);
             typeBox.ForeColor = SystemColors.ControlLightLight;
-            typeBox.Location = new Point(262, 180);
+            typeBox.Location = new Point(262, 129);
             typeBox.Name = "typeBox";
             typeBox.Size = new Size(200, 50);
             typeBox.TabIndex = 5;
@@ -105,7 +83,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 12F);
-            label3.Location = new Point(33, 183);
+            label3.Location = new Point(33, 132);
             label3.Name = "label3";
             label3.Size = new Size(202, 45);
             label3.TabIndex = 4;
@@ -116,7 +94,7 @@
             countBox.BackColor = SystemColors.ControlDarkDark;
             countBox.Font = new Font("Segoe UI", 12F);
             countBox.ForeColor = SystemColors.ControlLightLight;
-            countBox.Location = new Point(262, 308);
+            countBox.Location = new Point(262, 257);
             countBox.Name = "countBox";
             countBox.Size = new Size(200, 50);
             countBox.TabIndex = 9;
@@ -125,7 +103,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F);
-            label4.Location = new Point(33, 311);
+            label4.Location = new Point(33, 260);
             label4.Name = "label4";
             label4.Size = new Size(187, 45);
             label4.TabIndex = 8;
@@ -136,7 +114,7 @@
             locationBox.BackColor = SystemColors.ControlDarkDark;
             locationBox.Font = new Font("Segoe UI", 12F);
             locationBox.ForeColor = SystemColors.ControlLightLight;
-            locationBox.Location = new Point(262, 244);
+            locationBox.Location = new Point(262, 193);
             locationBox.Name = "locationBox";
             locationBox.Size = new Size(200, 50);
             locationBox.TabIndex = 7;
@@ -145,7 +123,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 12F);
-            label5.Location = new Point(33, 247);
+            label5.Location = new Point(33, 196);
             label5.Name = "label5";
             label5.Size = new Size(227, 45);
             label5.TabIndex = 6;
@@ -156,7 +134,7 @@
             priceBox.BackColor = SystemColors.ControlDarkDark;
             priceBox.Font = new Font("Segoe UI", 12F);
             priceBox.ForeColor = SystemColors.ControlLightLight;
-            priceBox.Location = new Point(262, 372);
+            priceBox.Location = new Point(262, 321);
             priceBox.Name = "priceBox";
             priceBox.Size = new Size(200, 50);
             priceBox.TabIndex = 11;
@@ -165,7 +143,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI", 12F);
-            label6.Location = new Point(33, 375);
+            label6.Location = new Point(33, 324);
             label6.Name = "label6";
             label6.Size = new Size(96, 45);
             label6.TabIndex = 10;
@@ -175,7 +153,7 @@
             // 
             submit.BackColor = SystemColors.ControlDarkDark;
             submit.Font = new Font("Segoe UI", 12F);
-            submit.Location = new Point(262, 438);
+            submit.Location = new Point(262, 387);
             submit.Name = "submit";
             submit.Size = new Size(200, 58);
             submit.TabIndex = 12;
@@ -188,9 +166,9 @@
             output.BackColor = SystemColors.ControlDarkDark;
             output.Columns.AddRange(new ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3, columnHeader4, columnHeader5 });
             output.ForeColor = SystemColors.ControlLightLight;
-            output.Location = new Point(513, 116);
+            output.Location = new Point(513, 129);
             output.Name = "output";
-            output.Size = new Size(427, 306);
+            output.Size = new Size(445, 242);
             output.TabIndex = 13;
             output.UseCompatibleStateImageBehavior = false;
             output.View = View.Details;
@@ -198,6 +176,7 @@
             // columnHeader1
             // 
             columnHeader1.Text = "ID";
+            columnHeader1.Width = 40;
             // 
             // columnHeader2
             // 
@@ -207,7 +186,7 @@
             // columnHeader3
             // 
             columnHeader3.Text = "Location";
-            columnHeader3.Width = 120;
+            columnHeader3.Width = 110;
             // 
             // columnHeader4
             // 
@@ -223,7 +202,7 @@
             // 
             display.BackColor = SystemColors.ControlDarkDark;
             display.Font = new Font("Segoe UI", 12F);
-            display.Location = new Point(513, 438);
+            display.Location = new Point(513, 387);
             display.Name = "display";
             display.Size = new Size(200, 58);
             display.TabIndex = 14;
@@ -236,7 +215,7 @@
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(1195, 551);
+            ClientSize = new Size(1211, 508);
             Controls.Add(display);
             Controls.Add(output);
             Controls.Add(submit);
@@ -248,8 +227,6 @@
             Controls.Add(label5);
             Controls.Add(typeBox);
             Controls.Add(label3);
-            Controls.Add(idBox);
-            Controls.Add(label2);
             Controls.Add(pictureBox1);
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
@@ -264,8 +241,6 @@
 
         private Label label1;
         private PictureBox pictureBox1;
-        private Label label2;
-        private TextBox idBox;
         private TextBox typeBox;
         private Label label3;
         private TextBox countBox;
