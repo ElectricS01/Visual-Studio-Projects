@@ -46,6 +46,8 @@
             columnHeader4 = new ColumnHeader();
             columnHeader5 = new ColumnHeader();
             display = new Button();
+            total = new Label();
+            label2 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -62,7 +64,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.Jim_s_Seeds;
-            pictureBox1.Location = new Point(1004, 36);
+            pictureBox1.Location = new Point(1040, 36);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(166, 163);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -210,12 +212,39 @@
             display.UseVisualStyleBackColor = false;
             display.Click += display_Click;
             // 
+            // total
+            // 
+            total.Anchor = AnchorStyles.Top;
+            total.AutoSize = true;
+            total.Font = new Font("Segoe UI", 12F);
+            total.Location = new Point(975, 257);
+            total.MaximumSize = new Size(260, 0);
+            total.MinimumSize = new Size(260, 0);
+            total.Name = "total";
+            total.Size = new Size(260, 45);
+            total.TabIndex = 15;
+            total.Text = "Total Seed Value:";
+            total.TextAlign = ContentAlignment.TopCenter;
+            total.Visible = false;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 12F);
+            label2.Location = new Point(975, 212);
+            label2.Name = "label2";
+            label2.Size = new Size(260, 45);
+            label2.TabIndex = 16;
+            label2.Text = "Total Seed Value:";
+            // 
             // jimsSeedCollection
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(1211, 508);
+            ClientSize = new Size(1247, 508);
+            Controls.Add(label2);
+            Controls.Add(total);
             Controls.Add(display);
             Controls.Add(output);
             Controls.Add(submit);
@@ -257,5 +286,7 @@
         private ColumnHeader columnHeader3;
         private ColumnHeader columnHeader4;
         private ColumnHeader columnHeader5;
+        private Label total;
+        private Label label2;
     }
 }

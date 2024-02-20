@@ -49,6 +49,7 @@ namespace Jim_s_Seed_Collection
         private void display_Click(object sender, EventArgs e)
         {
             string filePath = "data.txt";
+            float totalValue = 0f;
 
             if (!File.Exists(filePath))
             {
@@ -56,6 +57,8 @@ namespace Jim_s_Seed_Collection
             }
 
             output.Items.Clear();
+            total.Text = "";
+            total.Visible = false;
 
             string[] lines = File.ReadAllLines(filePath);
 
@@ -67,6 +70,10 @@ namespace Jim_s_Seed_Collection
 
                 for (int i = 0; i < items.Length; i++)
                 {
+                    if (i == 4 && float.TryParse(items[i], out float value))
+                    {
+                        totalValue += value;
+                    }
                     if (i == 0)
                     {
                         listItem.Text = items[i];
@@ -78,6 +85,8 @@ namespace Jim_s_Seed_Collection
                 }
                 output.Items.Add(listItem);
             }
+            total.Text = totalValue.ToString();
+            total.Visible = true;
         }
     }
 }
