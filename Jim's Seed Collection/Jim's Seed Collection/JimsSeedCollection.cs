@@ -50,6 +50,7 @@ namespace Jim_s_Seed_Collection
         {
             string filePath = "data.txt";
             float totalValue = 0f;
+            string term = search.Text.Trim().ToLower();
 
             if (!File.Exists(filePath))
             {
@@ -66,24 +67,27 @@ namespace Jim_s_Seed_Collection
             {
                 string[] items = line.Split(',');
 
-                ListViewItem listItem = new ListViewItem();
-
-                for (int i = 0; i < items.Length; i++)
+                if (items[1].Contains(term))
                 {
-                    if (i == 4 && float.TryParse(items[i], out float value))
+                    ListViewItem listItem = new ListViewItem();
+
+                    for (int i = 0; i < items.Length; i++)
                     {
-                        totalValue += value;
+                        if (i == 4 && float.TryParse(items[i], out float value))
+                        {
+                            totalValue += value;
+                        }
+                        if (i == 0)
+                        {
+                            listItem.Text = items[i];
+                        }
+                        else
+                        {
+                            listItem.SubItems.Add(items[i]);
+                        }
                     }
-                    if (i == 0)
-                    {
-                        listItem.Text = items[i];
-                    }
-                    else
-                    {
-                        listItem.SubItems.Add(items[i]);
-                    }
+                    output.Items.Add(listItem);
                 }
-                output.Items.Add(listItem);
             }
             total.Text = totalValue.ToString();
             total.Visible = true;
