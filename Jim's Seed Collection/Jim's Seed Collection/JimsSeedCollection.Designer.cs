@@ -48,6 +48,8 @@
             display = new Button();
             total = new Label();
             label2 = new Label();
+            search = new TextBox();
+            label7 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -237,12 +239,34 @@
             label2.TabIndex = 16;
             label2.Text = "Total Seed Value:";
             // 
+            // search
+            // 
+            search.BackColor = SystemColors.ControlDarkDark;
+            search.Font = new Font("Segoe UI", 12F);
+            search.ForeColor = SystemColors.ControlLightLight;
+            search.Location = new Point(640, 461);
+            search.Name = "search";
+            search.Size = new Size(318, 50);
+            search.TabIndex = 17;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new Font("Segoe UI", 12F);
+            label7.Location = new Point(513, 464);
+            label7.Name = "label7";
+            label7.Size = new Size(121, 45);
+            label7.TabIndex = 18;
+            label7.Text = "Search:";
+            // 
             // jimsSeedCollection
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(1247, 508);
+            ClientSize = new Size(1247, 597);
+            Controls.Add(label7);
+            Controls.Add(search);
             Controls.Add(label2);
             Controls.Add(total);
             Controls.Add(display);
@@ -288,5 +312,7 @@
         private ColumnHeader columnHeader5;
         private Label total;
         private Label label2;
+        private TextBox search;
+        private Label label7;
     }
 }
