@@ -67,7 +67,7 @@ namespace Jim_s_Seed_Collection
             {
                 string[] items = line.Split(',');
 
-                if (items[1].Contains(term))
+                if (items[1].ToLower().Contains(term))
                 {
                     ListViewItem listItem = new ListViewItem();
 
