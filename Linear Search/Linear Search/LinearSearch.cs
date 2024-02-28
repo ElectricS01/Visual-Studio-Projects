@@ -11,16 +11,19 @@ namespace Linear_Search
         private void submit_Click(object sender, EventArgs e)
         {
             bool found = false;
+            int index = 0;
+
             for (int i = 0; i < names.Length; i++)
             {
                 if (names[i] == search.Text)
                 {
                     found = true;
+                    index = i;
                 }
             }
             if (found)
             {
-                output.Text = "Found \"" + search.Text + '"';
+                output.Text = "Found \"" + search.Text + "\" at position: " + index;
             }
             else
             {
