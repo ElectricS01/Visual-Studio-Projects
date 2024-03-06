@@ -50,6 +50,7 @@
             label2 = new Label();
             search = new TextBox();
             label7 = new Label();
+            edit = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -259,12 +260,25 @@
             label7.TabIndex = 18;
             label7.Text = "Search:";
             // 
+            // edit
+            // 
+            edit.BackColor = SystemColors.ControlDarkDark;
+            edit.Font = new Font("Segoe UI", 12F);
+            edit.Location = new Point(758, 387);
+            edit.Name = "edit";
+            edit.Size = new Size(200, 58);
+            edit.TabIndex = 19;
+            edit.Text = "Edit Selected";
+            edit.UseVisualStyleBackColor = false;
+            edit.Click += edit_Click;
+            // 
             // jimsSeedCollection
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
             ClientSize = new Size(1247, 597);
+            Controls.Add(edit);
             Controls.Add(label7);
             Controls.Add(search);
             Controls.Add(label2);
@@ -314,5 +328,6 @@
         private Label label2;
         private TextBox search;
         private Label label7;
+        private Button edit;
     }
 }
