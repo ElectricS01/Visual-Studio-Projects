@@ -10,6 +10,10 @@ namespace Jim_s_Seed_Collection
             InitializeComponent();
         }
 
+        // This variable stores the index of the record in the array to be used in the second form
+
+        public static int selectedId = 0;
+
         private void submit_Click(object sender, EventArgs e)
         {
             if (typeBox.Text == "" || locationBox.Text == "" || countBox.Text == "" || priceBox.Text == "")
@@ -91,6 +95,20 @@ namespace Jim_s_Seed_Collection
             }
             total.Text = totalValue.ToString();
             total.Visible = true;
+        }
+
+        private void edit_Click(object sender, EventArgs e)
+        {
+            if (output.SelectedItems.Count != 1) { return; }
+
+            // Store the index of the selected listView object
+
+            selectedId = output.SelectedIndices[0];
+
+            // Create an instance of the Edit form and open it
+
+            Edit form2 = new();
+            form2.ShowDialog();
         }
     }
 }
