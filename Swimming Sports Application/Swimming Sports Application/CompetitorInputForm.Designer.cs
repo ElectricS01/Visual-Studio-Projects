@@ -325,7 +325,7 @@
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
             Name = "CompetitorInputForm";
-            Text = "CompetitorInputForm";
+            Text = "Competitor Input Form";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
