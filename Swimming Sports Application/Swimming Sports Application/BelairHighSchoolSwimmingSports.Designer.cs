@@ -230,7 +230,7 @@
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
             Name = "BelairHighSchoolSwimmingSports";
-            Text = "BelairHighSchoolSwimmingSports";
+            Text = "Belair High School Swimming Sports";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

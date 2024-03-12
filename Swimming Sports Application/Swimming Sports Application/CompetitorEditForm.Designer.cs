@@ -310,7 +310,7 @@
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
             Name = "CompetitorEditForm";
-            Text = "CompetitorEditForm";
+            Text = "Competitor Edit Form";
             Load += CompetitorEditForm_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
