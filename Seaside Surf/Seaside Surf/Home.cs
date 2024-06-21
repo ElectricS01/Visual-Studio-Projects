@@ -31,13 +31,16 @@ namespace Seaside_Surf
         {
             // Open a form to view, edit, and delete users
 
-            var form = new EditRecord();
+            this.Visible = false;
+            var form = new Registration();
             form.Show();
         }
 
         private void Home_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Environment.Exit(1);
+            // Close all windows if the user hits the close button on this window
+
+            Close();
         }
     }
 }

@@ -55,9 +55,10 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(36, 21);
+            label1.Location = new Point(67, 45);
+            label1.Margin = new Padding(6, 0, 6, 0);
             label1.Name = "label1";
-            label1.Size = new Size(313, 32);
+            label1.Size = new Size(620, 65);
             label1.TabIndex = 2;
             label1.Text = "Student Registration System";
             // 
@@ -65,9 +66,10 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(39, 73);
+            label2.Location = new Point(72, 156);
+            label2.Margin = new Padding(6, 0, 6, 0);
             label2.Name = "label2";
-            label2.Size = new Size(89, 21);
+            label2.Size = new Size(181, 45);
             label2.TabIndex = 3;
             label2.Text = "First Name:";
             // 
@@ -76,9 +78,10 @@
             txtFirstName.BackColor = SystemColors.ControlDarkDark;
             txtFirstName.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txtFirstName.ForeColor = SystemColors.ControlLightLight;
-            txtFirstName.Location = new Point(42, 97);
+            txtFirstName.Location = new Point(78, 207);
+            txtFirstName.Margin = new Padding(6);
             txtFirstName.Name = "txtFirstName";
-            txtFirstName.Size = new Size(149, 29);
+            txtFirstName.Size = new Size(273, 50);
             txtFirstName.TabIndex = 4;
             // 
             // txtLastName
@@ -86,19 +89,21 @@
             txtLastName.BackColor = SystemColors.ControlDarkDark;
             txtLastName.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txtLastName.ForeColor = SystemColors.ControlLightLight;
-            txtLastName.Location = new Point(209, 97);
+            txtLastName.Location = new Point(388, 207);
+            txtLastName.Margin = new Padding(6);
             txtLastName.Name = "txtLastName";
             txtLastName.PlaceholderText = "Surname";
-            txtLastName.Size = new Size(149, 29);
+            txtLastName.Size = new Size(273, 50);
             txtLastName.TabIndex = 6;
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label3.Location = new Point(209, 73);
+            label3.Location = new Point(388, 156);
+            label3.Margin = new Padding(6, 0, 6, 0);
             label3.Name = "label3";
-            label3.Size = new Size(76, 21);
+            label3.Size = new Size(152, 45);
             label3.TabIndex = 7;
             label3.Text = "Surname:";
             // 
@@ -106,9 +111,10 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label4.Location = new Point(423, 73);
+            label4.Location = new Point(786, 156);
+            label4.Margin = new Padding(6, 0, 6, 0);
             label4.Name = "label4";
-            label4.Size = new Size(51, 21);
+            label4.Size = new Size(103, 45);
             label4.TabIndex = 9;
             label4.Text = "Email:";
             // 
@@ -117,10 +123,11 @@
             txtEmail.BackColor = SystemColors.ControlDarkDark;
             txtEmail.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txtEmail.ForeColor = SystemColors.ControlLightLight;
-            txtEmail.Location = new Point(423, 97);
+            txtEmail.Location = new Point(786, 207);
+            txtEmail.Margin = new Padding(6);
             txtEmail.Name = "txtEmail";
             txtEmail.PlaceholderText = "Surname";
-            txtEmail.Size = new Size(149, 29);
+            txtEmail.Size = new Size(273, 50);
             txtEmail.TabIndex = 8;
             // 
             // txtPhoneNumber
@@ -128,18 +135,20 @@
             txtPhoneNumber.BackColor = SystemColors.ControlDarkDark;
             txtPhoneNumber.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txtPhoneNumber.ForeColor = SystemColors.ControlLightLight;
-            txtPhoneNumber.Location = new Point(42, 186);
+            txtPhoneNumber.Location = new Point(78, 397);
+            txtPhoneNumber.Margin = new Padding(6);
             txtPhoneNumber.Name = "txtPhoneNumber";
-            txtPhoneNumber.Size = new Size(209, 29);
+            txtPhoneNumber.Size = new Size(385, 50);
             txtPhoneNumber.TabIndex = 11;
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label5.Location = new Point(39, 162);
+            label5.Location = new Point(72, 346);
+            label5.Margin = new Padding(6, 0, 6, 0);
             label5.Name = "label5";
-            label5.Size = new Size(119, 21);
+            label5.Size = new Size(243, 45);
             label5.TabIndex = 10;
             label5.Text = "Phone Number:";
             // 
@@ -147,9 +156,10 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label6.Location = new Point(423, 162);
+            label6.Location = new Point(786, 346);
+            label6.Margin = new Padding(6, 0, 6, 0);
             label6.Name = "label6";
-            label6.Size = new Size(73, 21);
+            label6.Size = new Size(149, 45);
             label6.TabIndex = 13;
             label6.Text = "Payment:";
             // 
@@ -161,18 +171,20 @@
             cboPayment.ForeColor = SystemColors.ControlLightLight;
             cboPayment.FormattingEnabled = true;
             cboPayment.Items.AddRange(new object[] { "55", "65" });
-            cboPayment.Location = new Point(423, 186);
+            cboPayment.Location = new Point(786, 397);
+            cboPayment.Margin = new Padding(6);
             cboPayment.Name = "cboPayment";
-            cboPayment.Size = new Size(121, 29);
+            cboPayment.Size = new Size(221, 53);
             cboPayment.TabIndex = 14;
             // 
             // btnClear
             // 
             btnClear.BackColor = SystemColors.ControlDarkDark;
             btnClear.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnClear.Location = new Point(42, 257);
+            btnClear.Location = new Point(78, 548);
+            btnClear.Margin = new Padding(6);
             btnClear.Name = "btnClear";
-            btnClear.Size = new Size(86, 34);
+            btnClear.Size = new Size(160, 73);
             btnClear.TabIndex = 15;
             btnClear.Text = "Clear";
             btnClear.UseVisualStyleBackColor = false;
@@ -182,9 +194,10 @@
             // 
             btnOK.BackColor = SystemColors.ControlDarkDark;
             btnOK.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnOK.Location = new Point(145, 257);
+            btnOK.Location = new Point(269, 548);
+            btnOK.Margin = new Padding(6);
             btnOK.Name = "btnOK";
-            btnOK.Size = new Size(86, 34);
+            btnOK.Size = new Size(160, 73);
             btnOK.TabIndex = 16;
             btnOK.Text = "Add";
             btnOK.UseVisualStyleBackColor = false;
@@ -194,9 +207,10 @@
             // 
             btnHome.BackColor = SystemColors.ControlDarkDark;
             btnHome.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnHome.Location = new Point(247, 257);
+            btnHome.Location = new Point(459, 548);
+            btnHome.Margin = new Padding(6);
             btnHome.Name = "btnHome";
-            btnHome.Size = new Size(86, 34);
+            btnHome.Size = new Size(160, 73);
             btnHome.TabIndex = 17;
             btnHome.Text = "Home";
             btnHome.UseVisualStyleBackColor = false;
@@ -205,9 +219,10 @@
             // lsvStudents
             // 
             lsvStudents.Columns.AddRange(new ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3, columnHeader4, columnHeader5, columnHeader6 });
-            lsvStudents.Location = new Point(39, 325);
+            lsvStudents.Location = new Point(72, 693);
+            lsvStudents.Margin = new Padding(6);
             lsvStudents.Name = "lsvStudents";
-            lsvStudents.Size = new Size(533, 192);
+            lsvStudents.Size = new Size(986, 405);
             lsvStudents.TabIndex = 18;
             lsvStudents.UseCompatibleStateImageBehavior = false;
             lsvStudents.View = View.Details;
@@ -243,10 +258,10 @@
             // 
             // Registration
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(613, 553);
+            ClientSize = new Size(1134, 1179);
             Controls.Add(lsvStudents);
             Controls.Add(btnHome);
             Controls.Add(btnOK);
@@ -263,6 +278,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
+            Margin = new Padding(6);
             Name = "Registration";
             Text = "Seaside Surf Student Registration v1.0";
             FormClosing += Registration_FormClosing;

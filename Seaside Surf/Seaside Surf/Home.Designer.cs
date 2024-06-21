@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            btnView = new Button();
             btnEdit = new Button();
             pictureBox1 = new PictureBox();
+            btnView = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -39,31 +39,21 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(152, 24);
+            label1.Location = new Point(282, 51);
+            label1.Margin = new Padding(6, 0, 6, 0);
             label1.Name = "label1";
-            label1.Size = new Size(145, 32);
+            label1.Size = new Size(286, 65);
             label1.TabIndex = 0;
             label1.Text = "Seaside Surf";
-            // 
-            // btnView
-            // 
-            btnView.BackColor = SystemColors.ControlDarkDark;
-            btnView.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnView.Location = new Point(108, 191);
-            btnView.Name = "btnView";
-            btnView.Size = new Size(237, 34);
-            btnView.TabIndex = 1;
-            btnView.Text = "View Student File / Add Student";
-            btnView.UseVisualStyleBackColor = false;
-            btnView.Click += btnView_Click;
             // 
             // btnEdit
             // 
             btnEdit.BackColor = SystemColors.ControlDarkDark;
             btnEdit.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnEdit.Location = new Point(116, 242);
+            btnEdit.Location = new Point(185, 516);
+            btnEdit.Margin = new Padding(6, 6, 6, 6);
             btnEdit.Name = "btnEdit";
-            btnEdit.Size = new Size(222, 34);
+            btnEdit.Size = new Size(455, 73);
             btnEdit.TabIndex = 2;
             btnEdit.Text = "Edit / Delete Student Record";
             btnEdit.UseVisualStyleBackColor = false;
@@ -72,24 +62,39 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.image;
-            pictureBox1.Location = new Point(124, 59);
+            pictureBox1.Location = new Point(230, 126);
+            pictureBox1.Margin = new Padding(6, 6, 6, 6);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(203, 111);
+            pictureBox1.Size = new Size(377, 237);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
             // 
+            // btnView
+            // 
+            btnView.BackColor = SystemColors.ControlDarkDark;
+            btnView.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            btnView.Location = new Point(172, 408);
+            btnView.Margin = new Padding(6);
+            btnView.Name = "btnView";
+            btnView.Size = new Size(498, 73);
+            btnView.TabIndex = 1;
+            btnView.Text = "View Student File / Add Student";
+            btnView.UseVisualStyleBackColor = false;
+            btnView.Click += btnView_Click;
+            // 
             // Home
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
-            ClientSize = new Size(444, 320);
+            ClientSize = new Size(825, 683);
             Controls.Add(pictureBox1);
             Controls.Add(btnEdit);
             Controls.Add(btnView);
             Controls.Add(label1);
             ForeColor = SystemColors.ControlLightLight;
+            Margin = new Padding(6, 6, 6, 6);
             Name = "Home";
             Text = "Home";
             FormClosing += Home_FormClosing;
@@ -101,8 +106,8 @@
         #endregion
 
         private Label label1;
-        private Button btnView;
         private Button btnEdit;
         private PictureBox pictureBox1;
+        private Button btnView;
     }
 }
