@@ -76,8 +76,8 @@ namespace Seaside_Surf
                                     phone = reader.ReadString();
                                     break;
 
-                                 // Read the last variable, create a ListViewItem,
-                                 // and add it to the List View.
+                                // Read the last variable, create a ListViewItem,
+                                // and add it to the List View.
 
                                 case "payment":
                                     payment = reader.ReadString();
@@ -188,8 +188,8 @@ namespace Seaside_Surf
                     // id number plus one.
                     IEnumerable<XElement> rows = root.Descendants("student");
                     XElement firstRow = rows.Last();
-                    firstRow.AddFirst(
-                    new XElement("students",
+                    firstRow.AddAfterSelf(
+                    new XElement("student",
                        new XElement("id", (currentId + 1).ToString()),
                        new XElement("firstName", txtFirstName.Text),
                        new XElement("lastName", txtLastName.Text),
@@ -203,7 +203,7 @@ namespace Seaside_Surf
 
                 getList();
             }
-            // If the form is not complete, display an error message
+            // If the form is not complete correctly, display an error message
 
             else MessageBox.Show("Please enter all fields with the correct information");
         }
@@ -230,6 +230,7 @@ namespace Seaside_Surf
         {
             // When the Form is loaded, fill the List View with
             // the list of students
+
             getList();
         }
     }

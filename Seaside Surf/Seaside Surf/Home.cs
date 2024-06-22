@@ -32,7 +32,7 @@ namespace Seaside_Surf
             // Open a form to view, edit, and delete users
 
             this.Visible = false;
-            var form = new Registration();
+            var form = new EditRecord();
             form.Show();
         }
 
